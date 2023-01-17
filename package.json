@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.2",
-    "@phormal/react": "^0.1.0-alpha.18",
+    "@phormal/react": "^0.1.0-alpha.19",
     "@phormal/theme-basic": "^0.1.0-alpha.18",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
